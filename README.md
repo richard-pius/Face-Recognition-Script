@@ -10,9 +10,3 @@ To run the software:
  " pip install face_recognition opencv-python numpy PyQt5 " to install the required modules and librarys.
 4. run the encode_faces.py program in the terminal with the command "python encode_faces.py" which will generate new files for the next python script "python recognize_faces.py".
 5. then run the recognize_faces.py program in the terminal with the command "python recognize_faces.py"
-
-screenshots of the software :
-
-![main menu](https://github.com/user-attachments/assets/a02aa6ef-5297-49fd-8e62-c95db8179b81)
-
-![recognition](https://github.com/user-attachments/assets/5b6c7c45-6781-4ee2-b11d-352152d040f5)
